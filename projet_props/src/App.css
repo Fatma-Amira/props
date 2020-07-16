@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: blueviolet;
+  border: inset 5px white;
+}
+
+.App> h1 {
+  text-align: center;
+  width: 100%;
+  color: white;
+}
